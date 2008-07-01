@@ -3,7 +3,7 @@ use base qw(HTML::WidgetValidator::Widget);
 use strict;
 use warnings;
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 __PACKAGE__->name('PixivEmbedFeature');
 __PACKAGE__->url('http://www.pixiv.net/');
